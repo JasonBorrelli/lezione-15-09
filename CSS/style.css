@@ -1,0 +1,15 @@
+body.phase-work {
+    background-color: #fef2f2;
+}
+
+body.phase-break {
+    background-color: #f0fdf4;
+}
+
+.timer-display {
+    font-size: 3.5rem;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    letter-spacing: 0.05em;
+    line-height: 1;
+}
